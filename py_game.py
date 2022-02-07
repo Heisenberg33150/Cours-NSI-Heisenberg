@@ -26,3 +26,5 @@ while True :
         fenetre.fill([255,0,0])
     fenetre.blit(perso, position_perso)
     pygame.display.flip()
+    
+    print("je m'appelle Ahmed")
